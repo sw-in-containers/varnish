@@ -5,8 +5,8 @@ repository:
   name: varnish
   description: ":globe_with_meridians: Varnish Docker image optimized for production use with Shopware."
   homepage: https://github.com/sw-in-containers
-  topics: nginx, production
-  private: false
+  topics: varnish, production
+  private: true
   has_issues: true
   has_projects: false
   has_wiki: false
