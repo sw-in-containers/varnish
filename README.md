@@ -4,7 +4,7 @@
 
 # Varnish
 
-This repository contains the source code of an Varnish image which was optimized for the use with Shopware.
+This repository contains the source code of a Varnish image which was optimized for the use with Shopware.
 
 ## Dependencies
 
