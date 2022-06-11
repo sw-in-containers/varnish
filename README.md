@@ -9,6 +9,7 @@ This repository contains the source code of an Varnish image which was optimized
 ## Dependencies
 
 This image expects PHP-FPM to run from a service by the name of `php-fpm`.
+
 This image expects Nginx to run from a service by the name of `nginx`.
 
 ## Feel like contributing?
