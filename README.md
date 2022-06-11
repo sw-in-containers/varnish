@@ -2,16 +2,20 @@
     <img src=".github/project-logo.svg" width="512px">
 </h1>
 
-# Project Template
+# Varnish
 
-This repository provides a project template containing community health files for
-the [@sw-in-containers](https://github.com/sw-in-containers/) organization.
+This repository contains the source code of an Varnish image which was optimized for the use with Shopware.
+
+## Dependencies
+
+This image expects PHP-FPM to run from a service by the name of `php-fpm`.
+This image expects Nginx to run from a service by the name of `nginx`.
 
 ## Feel like contributing?
 
 Read our [contribution guidelines](CONTRIBUTING.md) and create
-an [issue](https://github.com/sw-in-containers/project-template/issues/new/choose) or
-a [pull request](https://github.com/sw-in-containers/project-template/compare).
+an [issue](https://github.com/sw-in-containers/varnish/issues/new/choose) or
+a [pull request](https://github.com/sw-in-containers/varnish/compare).
 
 ## License
 
