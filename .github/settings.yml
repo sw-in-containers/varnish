@@ -6,7 +6,7 @@ repository:
   description: ":globe_with_meridians: Varnish Docker image optimized for production use with Shopware."
   homepage: https://github.com/sw-in-containers
   topics: varnish, production
-  private: true
+  private: false
   has_issues: true
   has_projects: false
   has_wiki: false
