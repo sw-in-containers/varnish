@@ -2,9 +2,9 @@
     <img src=".github/project-logo.svg" width="512px">
 </h1>
 
-# Logstash
+# Varnish
 
-This repository contains the source code of a Logstash image which was optimized for the use with Shopware.
+This repository contains the source code of a Varnish image which was optimized for the use with Shopware.
 
 ## Dependencies
 
